@@ -1,18 +1,17 @@
 ### Hey👋,I'm Lu Jianbin
 
-<!--
-**looniink/looniink** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" alt="GIF" src="https://static.looni.ink/github/code.gif" />
 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 💼 I’m pursuing a Bachelor's degree in computer science and technology
+- ⚡ Fun fact: Pain past is pleasure;
+- 🌱 My interests are with java,big data,etc...;
 - 💬 Ask me about anything, I am happy to help;
-- 📫 Please email via lujianbin@looni.ink to reach me.
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 Please email via lujianbin@looni.ink to reach me;
+- 💼 I’m pursuing a Bachelor's degree in computer science and technology;
 
 
-<img align="right" alt="GIF" src="http://static.looni.ink/code.gif" />
+- [![Whatsapp Badge](https://img.shields.io/badge/-Wechat-4CA143?style=flat-square&labelColor=4CA143&logo=wechat&logoColor=white)](https://static.looni.ink/github/me.png)&ensp;
+[![](https://img.shields.io/badge/-MyBlog-ff5722?style=flat-square&labelColor=ff5722&logo=blogger&logoColor=white&link=https://www.facebook.com/weltonpfelix/)](https://www.looni.ink)
+
+
+
