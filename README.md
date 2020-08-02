@@ -1,13 +1,19 @@
-### Hey👋,I'm Lu Jianbin
+### Hey 👋, I'm Lu Jianbin.
 
 <img align="right" alt="GIF" src="https://static.looni.ink/github/code.gif" />
 
 
 - ⚡ Fun fact: Pain past is pleasure;
+
 - 🌱 My interests are with java,big data,etc...;
+
 - 💬 Ask me about anything, I am happy to help;
+
 - 📫 Please email via lujianbin@looni.ink to reach me;
+
 - 💼 I’m pursuing a Bachelor's degree in computer science and technology;
+
+- 👨🏽‍💻 I am currently studying in Central South University for Nationalities
 
 
 
