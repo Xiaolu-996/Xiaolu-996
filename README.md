@@ -9,7 +9,7 @@
 - 📫 Please email via lujianbin@looni.ink to reach me;
 - 💼 I’m pursuing a Bachelor's degree in computer science and technology;
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=looniink&theme=dark))](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=looniink&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
