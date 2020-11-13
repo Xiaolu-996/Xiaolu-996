@@ -11,7 +11,7 @@
 
 - 💬 Ask me about anything, I am happy to help;
 
-- 📫 Please email via lujianbin@looni.ink to reach me;
+- 📫 Please email via jianbin.lu@foxmail.com to reach me;
 
 - 💼 I’m pursuing a Bachelor's degree in computer science and technology;
 
