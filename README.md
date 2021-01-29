@@ -1,6 +1,6 @@
 ### Hey 👋, I'm Lu Jianbin.
 
-<img align="right" alt="GIF" src="https://static.looni.ink/github/code.gif" />
+<img align="right" alt="GIF" src="https://cdn.jsdelivr.net/gh/looniink/image/code.gif" />
 
 
 
@@ -21,7 +21,7 @@
 
 
 
-- [![Whatsapp Badge](https://img.shields.io/badge/-Wechat-4CA143?style=flat-square&labelColor=4CA143&logo=wechat&logoColor=white)](https://static.looni.ink/github/me.png)&ensp;
+- [![Whatsapp Badge](https://img.shields.io/badge/-Wechat-4CA143?style=flat-square&labelColor=4CA143&logo=wechat&logoColor=white)](https://cdn.jsdelivr.net/gh/looniink/image/me.png)&ensp;
 [![](https://img.shields.io/badge/-MyBlog-ff5722?style=flat-square&labelColor=ff5722&logo=blogger&logoColor=white&link=https://www.facebook.com/weltonpfelix/)](https://www.looni.ink)
 
 
