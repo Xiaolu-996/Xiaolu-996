@@ -17,7 +17,8 @@
 
 - 👨🏽‍💻 I am currently studying in Central South University for Nationalitie
 
-- QQ：205363203   [![Whatsapp Badge](https://img.shields.io/badge/-Wechat-4CA143?style=flat-square&labelColor=4CA143&logo=wechat&logoColor=white)](https://cdn.jsdelivr.net/gh/looniink/image/me.png)&ensp;
+- QQ：205363203   
+- [![Whatsapp Badge](https://img.shields.io/badge/-Wechat-4CA143?style=flat-square&labelColor=4CA143&logo=wechat&logoColor=white)](https://cdn.jsdelivr.net/gh/looniink/image/me.png)&ensp;
 
 
 
